@@ -1,3 +1,7 @@
+# Presentation and pitch decks (keep local, exclude from public repo)
+*.pptx
+*.ppt
+
 # Environment variables and secrets
 .env
 .env.*
