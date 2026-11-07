@@ -1,0 +1,17 @@
+# Core Web Interface
+streamlit>=1.35.0
+
+# LLM Integration (Official Gemini SDK)
+google-genai>=0.1.1
+
+# Vector Database for Local Semantic Search
+chromadb>=0.5.0
+
+# Environment Configuration (.env loader)
+python-dotenv>=1.0.0
+
+# Document Processing (PDF text extraction)
+pypdf>=4.2.0
+
+# Image & Multimodal Processing
+pillow>=10.3.0

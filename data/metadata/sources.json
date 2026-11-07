@@ -1,0 +1,36 @@
+{
+  "jurisdiction": "India",
+  "indexed_laws": [
+    {
+      "id": "indian_contract_act_1872",
+      "law_name": "The Indian Contract Act, 1872",
+      "act_no": "Act No. 9 of 1872",
+      "enactment_date": "1872-04-25",
+      "official_source": "Legislative Department, Ministry of Law and Justice, Government of India",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/2187",
+      "raw_filename": "indian_contract_act_1872.txt",
+      "status": "active"
+    },
+    {
+      "id": "information_technology_act_2000",
+      "law_name": "The Information Technology Act, 2000",
+      "act_no": "Act No. 21 of 2000",
+      "enactment_date": "2000-06-09",
+      "official_source": "Ministry of Electronics and Information Technology / India Code",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/1999",
+      "raw_filename": "information_technology_act_2000.txt",
+      "status": "active"
+    },
+    {
+      "id": "consumer_protection_act_2019",
+      "law_name": "The Consumer Protection Act, 2019",
+      "act_no": "Act No. 35 of 2019",
+      "enactment_date": "2019-08-09",
+      "official_source": "Department of Consumer Affairs / India Code",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/15256",
+      "raw_filename": "consumer_protection_act_2019.txt",
+      "status": "active"
+    }
+  ]
+}
+
