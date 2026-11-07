@@ -8,7 +8,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![ChromaDB](https://img.shields.io/badge/Vector_DB-ChromaDB-blue?style=flat)](https://www.trychroma.com/)
 [![Google Gemini](https://img.shields.io/badge/LLM-Google_Gemini-8E75C2?style=flat&logo=google&logoColor=white)](https://ai.google.dev/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Zero-Hallucination Guardrails](https://img.shields.io/badge/Safety-Zero--Hallucination_RAG-emerald.svg)](#8-anti-hallucination--safety-guardrails)
 
 *A privacy-respecting, local-first legal research platform that retrieves, cross-references, and synthesizes statutory provisions from official Indian legal enactments with deterministic citations.*
