@@ -283,9 +283,11 @@ python tests/test_chat_storage.py
 
 ---
 
-## 13. License
+## 13. Proprietary License & Intellectual Property
 
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
+Copyright © 2026 Harsh Vangar. All Rights Reserved.
+
+This software, its design, architecture, and associated code are proprietary intellectual property. This repository is made publicly visible for demonstration, academic review, and portfolio evaluation purposes only. Unauthorized commercial copying, modification, or distribution is strictly prohibited. See [`LICENSE`](LICENSE) for terms.
 
 ---
 
